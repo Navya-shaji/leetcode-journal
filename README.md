@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
