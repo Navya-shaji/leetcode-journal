@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Navya-shaji/leetcode-journal/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Navya-shaji/leetcode-journal/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
