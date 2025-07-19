@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Navya-shaji/leetcode-journal/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Navya-shaji/leetcode-journal/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya-shaji/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0179-largest-number) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Navya-shaji/leetcode-journal/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Navya-shaji/leetcode-journal/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya-shaji/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
