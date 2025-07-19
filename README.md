@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Navya-shaji/leetcode-journal/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [0434-number-of-segments-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/0434-number-of-segments-in-a-string) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
 | [3396-valid-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/3396-valid-word) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
