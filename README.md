@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Navya-shaji/leetcode-journal/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/0434-number-of-segments-in-a-string) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Navya-shaji/leetcode-journal/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
 | ------- |
