@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navya-shaji/leetcode-journal/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Navya-shaji/leetcode-journal/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Navya-shaji/leetcode-journal/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0162-find-peak-element) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Navya-shaji/leetcode-journal/tree/master/0164-maximum-gap) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
