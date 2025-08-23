@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/0013-roman-to-integer) |
+| [0133-clone-graph](https://github.com/Navya-shaji/leetcode-journal/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Navya-shaji/leetcode-journal/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Navya-shaji/leetcode-journal/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Navya-shaji/leetcode-journal/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
