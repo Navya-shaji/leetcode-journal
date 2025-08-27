@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1646-kth-missing-positive-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0728-self-dividing-numbers) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1448-maximum-69-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
