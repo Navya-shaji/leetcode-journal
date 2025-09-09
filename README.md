@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3723-sum-of-good-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3723-sum-of-good-numbers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navya-shaji/leetcode-journal/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1448-maximum-69-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
