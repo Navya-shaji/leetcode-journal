@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3396-valid-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/3396-valid-word) |
+| [3636-check-balanced-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
 ## Greedy
