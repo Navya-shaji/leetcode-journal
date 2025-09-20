@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1448-maximum-69-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
