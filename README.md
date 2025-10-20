@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2235-capitalize-the-title](https://github.com/Navya-shaji/leetcode-journal/tree/master/2235-capitalize-the-title) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3396-valid-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/3396-valid-word) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Navya-shaji/leetcode-journal/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
