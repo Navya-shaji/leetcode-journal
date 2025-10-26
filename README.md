@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/Navya-shaji/leetcode-journal/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/Navya-shaji/leetcode-journal/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
