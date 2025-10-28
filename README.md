@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navya-shaji/leetcode-journal/tree/master/2190-count-common-words-with-one-occurrence) |
