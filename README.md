@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navya-shaji/leetcode-journal/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Navya-shaji/leetcode-journal/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navya-shaji/leetcode-journal/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Navya-shaji/leetcode-journal/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
