@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Navya-shaji/leetcode-journal/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1965-sum-of-digits-in-base-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Navya-shaji/leetcode-journal/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2288-count-operations-to-obtain-zero) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
