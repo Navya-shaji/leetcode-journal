@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navya-shaji/leetcode-journal/tree/master/0748-largest-number-at-least-twice-of-others) |
