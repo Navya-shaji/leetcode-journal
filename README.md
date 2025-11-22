@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
