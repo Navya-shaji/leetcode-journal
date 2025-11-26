@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navya-shaji/leetcode-journal/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/0777-toeplitz-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navya-shaji/leetcode-journal/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0958-sort-array-by-parity-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Navya-shaji/leetcode-journal/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
