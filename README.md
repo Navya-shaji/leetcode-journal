@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1021-remove-outermost-parentheses) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Navya-shaji/leetcode-journal/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0144-binary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1021-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 ## String Matching
