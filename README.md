@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
+| [3110-score-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Navya-shaji/leetcode-journal/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-valid-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
