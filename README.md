@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Navya-shaji/leetcode-journal/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1021-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/2128-reverse-prefix-of-word) |
@@ -489,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Navya-shaji/leetcode-journal/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Navya-shaji/leetcode-journal/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
