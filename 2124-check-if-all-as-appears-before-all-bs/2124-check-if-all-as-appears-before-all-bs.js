@@ -3,5 +3,5 @@
  * @return {boolean}
  */
 var checkString = function(s) {
-    return (!s.includes("ba")) 
+    return (!s.includes("ba"))
 };
