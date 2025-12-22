@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0728-self-dividing-numbers) |
+| [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
+| [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Navya-shaji/leetcode-journal/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
