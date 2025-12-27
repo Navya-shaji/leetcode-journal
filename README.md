@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/1677-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
