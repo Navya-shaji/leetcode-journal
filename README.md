@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2485-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/3024-type-of-triangle) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
