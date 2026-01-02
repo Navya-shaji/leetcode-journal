@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Navya-shaji/leetcode-journal/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
