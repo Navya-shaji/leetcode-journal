@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/Navya-shaji/leetcode-journal/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3636-check-balanced-string) |
+| [3798-largest-even-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
