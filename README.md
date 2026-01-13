@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navya-shaji/leetcode-journal/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Navya-shaji/leetcode-journal/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navya-shaji/leetcode-journal/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navya-shaji/leetcode-journal/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1797-goal-parser-interpretation](https://github.com/Navya-shaji/leetcode-journal/tree/master/1797-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/Navya-shaji/leetcode-journal/tree/master/1844-replace-all-digits-with-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1904-second-largest-digit-in-a-string) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navya-shaji/leetcode-journal/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
