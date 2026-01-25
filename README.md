@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navya-shaji/leetcode-journal/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Navya-shaji/leetcode-journal/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Navya-shaji/leetcode-journal/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Recursion
 |  |
