@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2315-count-asterisks](https://github.com/Navya-shaji/leetcode-journal/tree/master/2315-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navya-shaji/leetcode-journal/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
