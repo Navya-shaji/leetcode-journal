@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3379-transformed-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Navya-shaji/leetcode-journal/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/Navya-shaji/leetcode-journal/tree/master/2582-pass-the-pillow) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [3379-transformed-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
