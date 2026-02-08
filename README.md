@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Navya-shaji/leetcode-journal/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Navya-shaji/leetcode-journal/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Navya-shaji/leetcode-journal/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navya-shaji/leetcode-journal/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Navya-shaji/leetcode-journal/tree/master/0884-uncommon-words-from-two-sentences) |
