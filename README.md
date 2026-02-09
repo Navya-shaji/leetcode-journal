@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Navya-shaji/leetcode-journal/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
