@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navya-shaji/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Navya-shaji/leetcode-journal/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navya-shaji/leetcode-journal/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
