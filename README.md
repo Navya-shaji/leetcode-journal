@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Navya-shaji/leetcode-journal/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
