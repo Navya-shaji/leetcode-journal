@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Navya-shaji/leetcode-journal/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2562-find-the-array-concatenation-value](https://github.com/Navya-shaji/leetcode-journal/tree/master/2562-find-the-array-concatenation-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Navya-shaji/leetcode-journal/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2288-count-operations-to-obtain-zero) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-strictly-palindromic-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/Navya-shaji/leetcode-journal/tree/master/2582-pass-the-pillow) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navya-shaji/leetcode-journal/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3046-split-the-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3046-split-the-array) |
