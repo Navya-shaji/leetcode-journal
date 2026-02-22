@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Navya-shaji/leetcode-journal/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navya-shaji/leetcode-journal/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Navya-shaji/leetcode-journal/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/2128-reverse-prefix-of-word) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Navya-shaji/leetcode-journal/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navya-shaji/leetcode-journal/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navya-shaji/leetcode-journal/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
