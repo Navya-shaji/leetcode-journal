@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1408-string-matching-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Navya-shaji/leetcode-journal/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navya-shaji/leetcode-journal/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Navya-shaji/leetcode-journal/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1486-xor-operation-in-an-array) |
