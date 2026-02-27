@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Navya-shaji/leetcode-journal/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Navya-shaji/leetcode-journal/tree/master/1329-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Navya-shaji/leetcode-journal/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Navya-shaji/leetcode-journal/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/1677-matrix-diagonal-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
