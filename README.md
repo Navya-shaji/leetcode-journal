@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Navya-shaji/leetcode-journal/tree/master/0979-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1046-last-stone-weight](https://github.com/Navya-shaji/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Navya-shaji/leetcode-journal/tree/master/1329-sort-the-matrix-diagonally) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Navya-shaji/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
