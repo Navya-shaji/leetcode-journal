@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1486-xor-operation-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Navya-shaji/leetcode-journal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navya-shaji/leetcode-journal/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Navya-shaji/leetcode-journal/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Navya-shaji/leetcode-journal/tree/master/1505-create-target-array-in-the-given-order) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1486-xor-operation-in-an-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1720-decode-xored-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1720-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
