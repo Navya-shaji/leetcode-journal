@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Navya-shaji/leetcode-journal/tree/master/1797-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/Navya-shaji/leetcode-journal/tree/master/1844-replace-all-digits-with-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navya-shaji/leetcode-journal/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Navya-shaji/leetcode-journal/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navya-shaji/leetcode-journal/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya-shaji/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navya-shaji/leetcode-journal/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Navya-shaji/leetcode-journal/tree/master/1652-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navya-shaji/leetcode-journal/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Recursion
