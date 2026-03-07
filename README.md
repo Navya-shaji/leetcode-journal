@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Navya-shaji/leetcode-journal/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Navya-shaji/leetcode-journal/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Navya-shaji/leetcode-journal/tree/master/0232-implement-queue-using-stacks) |
+| [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1021-remove-outermost-parentheses) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0190-reverse-bits) |
+| [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0938-range-sum-of-bst) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Navya-shaji/leetcode-journal/tree/master/0938-range-sum-of-bst) |
@@ -800,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Navya-shaji/leetcode-journal/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
