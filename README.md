@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navya-shaji/leetcode-journal/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3723-sum-of-good-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/Navya-shaji/leetcode-journal/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navya-shaji/leetcode-journal/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3811-reverse-degree-of-a-string) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
