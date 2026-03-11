@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navya-shaji/leetcode-journal/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1833-maximum-ice-cream-bars](https://github.com/Navya-shaji/leetcode-journal/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Navya-shaji/leetcode-journal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Navya-shaji/leetcode-journal/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Navya-shaji/leetcode-journal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/Navya-shaji/leetcode-journal/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Navya-shaji/leetcode-journal/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Navya-shaji/leetcode-journal/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Navya-shaji/leetcode-journal/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Tree
 |  |
