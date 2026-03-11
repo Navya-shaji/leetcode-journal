@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Navya-shaji/leetcode-journal/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Navya-shaji/leetcode-journal/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Navya-shaji/leetcode-journal/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Navya-shaji/leetcode-journal/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Navya-shaji/leetcode-journal/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Navya-shaji/leetcode-journal/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Navya-shaji/leetcode-journal/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0190-reverse-bits) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Navya-shaji/leetcode-journal/tree/master/0089-gray-code) |
 | [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
