@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Navya-shaji/leetcode-journal/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2562-find-the-array-concatenation-value](https://github.com/Navya-shaji/leetcode-journal/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Navya-shaji/leetcode-journal/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2481-strictly-palindromic-number) |
 | [2562-find-the-array-concatenation-value](https://github.com/Navya-shaji/leetcode-journal/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
