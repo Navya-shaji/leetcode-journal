@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
+| [3765-complete-prime-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3765-complete-prime-number) |
 ## String
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navya-shaji/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3765-complete-prime-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Navya-shaji/leetcode-journal/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navya-shaji/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3765-complete-prime-number) |
 ## Bucket Sort
 |  |
 | ------- |
