@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1408-string-matching-in-an-array) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Navya-shaji/leetcode-journal/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navya-shaji/leetcode-journal/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Navya-shaji/leetcode-journal/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Navya-shaji/leetcode-journal/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Navya-shaji/leetcode-journal/tree/master/1505-create-target-array-in-the-given-order) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -871,4 +873,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navya-shaji/leetcode-journal/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Navya-shaji/leetcode-journal/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
