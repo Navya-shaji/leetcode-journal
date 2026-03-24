@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Navya-shaji/leetcode-journal/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navya-shaji/leetcode-journal/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya-shaji/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navya-shaji/leetcode-journal/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
