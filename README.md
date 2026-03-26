@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navya-shaji/leetcode-journal/tree/master/3582-find-indices-of-stable-mountains) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
 | [3765-complete-prime-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3765-complete-prime-number) |
 ## String
 |  |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Navya-shaji/leetcode-journal/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
 ## Brainteaser
 |  |
 | ------- |
