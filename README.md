@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Navya-shaji/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Navya-shaji/leetcode-journal/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Navya-shaji/leetcode-journal/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0844-backspace-string-compare) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Navya-shaji/leetcode-journal/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Navya-shaji/leetcode-journal/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Navya-shaji/leetcode-journal/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Navya-shaji/leetcode-journal/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Navya-shaji/leetcode-journal/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Navya-shaji/leetcode-journal/tree/master/0461-hamming-distance) |
