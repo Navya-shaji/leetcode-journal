@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Navya-shaji/leetcode-journal/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Navya-shaji/leetcode-journal/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/Navya-shaji/leetcode-journal/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/Navya-shaji/leetcode-journal/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0874-backspace-string-compare) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/Navya-shaji/leetcode-journal/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/Navya-shaji/leetcode-journal/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Navya-shaji/leetcode-journal/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
+| [0537-complex-number-multiplication](https://github.com/Navya-shaji/leetcode-journal/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/Navya-shaji/leetcode-journal/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
