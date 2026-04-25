@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya-shaji/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0137-single-number-ii) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Navya-shaji/leetcode-journal/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya-shaji/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navya-shaji/leetcode-journal/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/3857-minimum-cost-to-split-into-ones) |
