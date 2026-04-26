@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Navya-shaji/leetcode-journal/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/Navya-shaji/leetcode-journal/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navya-shaji/leetcode-journal/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Navya-shaji/leetcode-journal/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Navya-shaji/leetcode-journal/tree/master/2582-pass-the-pillow) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Navya-shaji/leetcode-journal/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/Navya-shaji/leetcode-journal/tree/master/2810-faulty-keyboard) |
 | [3379-transformed-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
