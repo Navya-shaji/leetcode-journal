@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Navya-shaji/leetcode-journal/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Navya-shaji/leetcode-journal/tree/master/2236-root-equals-sum-of-children) |
 | [2384-root-equals-sum-of-children](https://github.com/Navya-shaji/leetcode-journal/tree/master/2384-root-equals-sum-of-children) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Navya-shaji/leetcode-journal/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Navya-shaji/leetcode-journal/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Navya-shaji/leetcode-journal/tree/master/2236-root-equals-sum-of-children) |
 | [2384-root-equals-sum-of-children](https://github.com/Navya-shaji/leetcode-journal/tree/master/2384-root-equals-sum-of-children) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Navya-shaji/leetcode-journal/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Graph
 |  |
 | ------- |
