@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navya-shaji/leetcode-journal/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Navya-shaji/leetcode-journal/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
