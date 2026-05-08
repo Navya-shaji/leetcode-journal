@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2350-find-closest-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2350-find-closest-number-to-zero) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Navya-shaji/leetcode-journal/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/1677-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Navya-shaji/leetcode-journal/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
