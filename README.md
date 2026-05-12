@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Navya-shaji/leetcode-journal/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Navya-shaji/leetcode-journal/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Navya-shaji/leetcode-journal/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navya-shaji/leetcode-journal/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Navya-shaji/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Navya-shaji/leetcode-journal/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Navya-shaji/leetcode-journal/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
