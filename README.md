@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Navya-shaji/leetcode-journal/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1507-reformat-date](https://github.com/Navya-shaji/leetcode-journal/tree/master/1507-reformat-date) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navya-shaji/leetcode-journal/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Navya-shaji/leetcode-journal/tree/master/1704-determine-if-string-halves-are-alike) |
