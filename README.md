@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2784-check-if-array-is-good](https://github.com/Navya-shaji/leetcode-journal/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navya-shaji/leetcode-journal/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2784-check-if-array-is-good](https://github.com/Navya-shaji/leetcode-journal/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2785-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Navya-shaji/leetcode-journal/tree/master/2716-minimize-string-length) |
+| [2784-check-if-array-is-good](https://github.com/Navya-shaji/leetcode-journal/tree/master/2784-check-if-array-is-good) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2956-find-common-elements-between-two-arrays) |
