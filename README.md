@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Navya-shaji/leetcode-journal/tree/master/3884-first-matching-character-from-both-ends) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
 ## Greedy
 |  |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Navya-shaji/leetcode-journal/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Navya-shaji/leetcode-journal/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
