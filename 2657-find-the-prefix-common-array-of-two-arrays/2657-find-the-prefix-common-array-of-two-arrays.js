@@ -3,6 +3,11 @@
  * @param {number[]} B
  * @return {number[]}
  */
+/**
+ * @param {number[]} A
+ * @param {number[]} B
+ * @return {number[]}
+ */
 var findThePrefixCommonArray = function (A, B) {
     let Res = []
     for (let i = 0; i < A.length; i++) {
