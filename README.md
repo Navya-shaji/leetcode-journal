@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Navya-shaji/leetcode-journal/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Navya-shaji/leetcode-journal/tree/master/1925-count-square-sum-triples) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navya-shaji/leetcode-journal/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navya-shaji/leetcode-journal/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/Navya-shaji/leetcode-journal/tree/master/2315-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Navya-shaji/leetcode-journal/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Navya-shaji/leetcode-journal/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navya-shaji/leetcode-journal/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navya-shaji/leetcode-journal/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
