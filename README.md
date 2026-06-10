@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navya-shaji/leetcode-journal/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/Navya-shaji/leetcode-journal/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navya-shaji/leetcode-journal/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
+| [3945-digit-frequency-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/3945-digit-frequency-score) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/4107-find-missing-elements) |
