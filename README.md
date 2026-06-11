@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Navya-shaji/leetcode-journal/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3636-check-balanced-string) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3371-harshad-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Navya-shaji/leetcode-journal/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Navya-shaji/leetcode-journal/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navya-shaji/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3765-complete-prime-number) |
 ## Bucket Sort
@@ -1000,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
