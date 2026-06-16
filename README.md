@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Navya-shaji/leetcode-journal/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 | [3636-check-balanced-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3636-check-balanced-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Navya-shaji/leetcode-journal/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3798-largest-even-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3798-largest-even-number) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3790-fruits-into-baskets-ii) |
