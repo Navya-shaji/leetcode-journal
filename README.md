@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Navya-shaji/leetcode-journal/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
