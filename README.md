@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navya-shaji/leetcode-journal/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Navya-shaji/leetcode-journal/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
