@@ -5,7 +5,6 @@
  */
 var maxIceCream = function (costs, coins) {
     costs.sort((a, b) => a - b)
-    console.log(costs)
     let sum = 0
     let count = 0
     for (let i = 0; i < costs.length; i++) {
