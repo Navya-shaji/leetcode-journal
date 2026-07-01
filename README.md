@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Navya-shaji/leetcode-journal/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/Navya-shaji/leetcode-journal/tree/master/0537-complex-number-multiplication) |
+| [0541-reverse-string-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Navya-shaji/leetcode-journal/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0844-backspace-string-compare) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Navya-shaji/leetcode-journal/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
