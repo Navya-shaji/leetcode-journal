@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Navya-shaji/leetcode-journal/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navya-shaji/leetcode-journal/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Navya-shaji/leetcode-journal/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Navya-shaji/leetcode-journal/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/Navya-shaji/leetcode-journal/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/Navya-shaji/leetcode-journal/tree/master/0537-complex-number-multiplication) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Navya-shaji/leetcode-journal/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Navya-shaji/leetcode-journal/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya-shaji/leetcode-journal/tree/master/0745-find-smallest-letter-greater-than-target) |
