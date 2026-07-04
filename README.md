@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1720-decode-xored-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1720-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Navya-shaji/leetcode-journal/tree/master/2433-find-the-original-array-of-prefix-xor) |
