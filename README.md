@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navya-shaji/leetcode-journal/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Navya-shaji/leetcode-journal/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Navya-shaji/leetcode-journal/tree/master/1797-goal-parser-interpretation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Navya-shaji/leetcode-journal/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/Navya-shaji/leetcode-journal/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Navya-shaji/leetcode-journal/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navya-shaji/leetcode-journal/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navya-shaji/leetcode-journal/tree/master/1806-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Navya-shaji/leetcode-journal/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Navya-shaji/leetcode-journal/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1925-count-square-sum-triples](https://github.com/Navya-shaji/leetcode-journal/tree/master/1925-count-square-sum-triples) |
