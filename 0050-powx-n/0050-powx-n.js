@@ -3,6 +3,7 @@
  * @param {number} n
  * @return {number}
  */
-var myPow = function(x, n) {
-    return x**n
+var myPow = function (x, n) {
+    return x ** n
+
 };
