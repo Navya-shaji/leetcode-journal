@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3046-split-the-array) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
