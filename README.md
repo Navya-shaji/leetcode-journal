@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Navya-shaji/leetcode-journal/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navya-shaji/leetcode-journal/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1925-count-square-sum-triples](https://github.com/Navya-shaji/leetcode-journal/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1965-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-maximum-xor-after-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2317-maximum-xor-after-operations) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Navya-shaji/leetcode-journal/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navya-shaji/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
