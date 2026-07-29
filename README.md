@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navya-shaji/leetcode-journal/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-sum-of-good-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3723-sum-of-good-numbers) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2481-strictly-palindromic-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Backtracking
 |  |
 | ------- |
