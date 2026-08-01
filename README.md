@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2974-minimum-number-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2974-minimum-number-game) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/3024-type-of-triangle) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Navya-shaji/leetcode-journal/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2785-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2974-minimum-number-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navya-shaji/leetcode-journal/tree/master/3074-apple-redistribution-into-boxes) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Navya-shaji/leetcode-journal/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Navya-shaji/leetcode-journal/tree/master/2810-faulty-keyboard) |
+| [2974-minimum-number-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/3248-snake-in-matrix) |
 | [3379-transformed-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/3379-transformed-array) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2974-minimum-number-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/2974-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
