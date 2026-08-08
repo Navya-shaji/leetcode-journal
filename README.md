@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Navya-shaji/leetcode-journal/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navya-shaji/leetcode-journal/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2317-maximum-xor-after-operations) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navya-shaji/leetcode-journal/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Navya-shaji/leetcode-journal/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navya-shaji/leetcode-journal/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Navya-shaji/leetcode-journal/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/Navya-shaji/leetcode-journal/tree/master/2363-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Navya-shaji/leetcode-journal/tree/master/2631-sort-the-students-by-their-kth-score) |
