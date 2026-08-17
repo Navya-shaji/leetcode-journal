@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Navya-shaji/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Navya-shaji/leetcode-journal/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Navya-shaji/leetcode-journal/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/Navya-shaji/leetcode-journal/tree/master/1268-search-suggestions-system) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Navya-shaji/leetcode-journal/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/Navya-shaji/leetcode-journal/tree/master/0957-prison-cells-after-n-days) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Navya-shaji/leetcode-journal/tree/master/1266-minimum-time-visiting-all-points) |
 | [1274-number-of-days-between-two-dates](https://github.com/Navya-shaji/leetcode-journal/tree/master/1274-number-of-days-between-two-dates) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Navya-shaji/leetcode-journal/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Hash Function
 |  |
