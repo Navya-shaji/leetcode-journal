@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Navya-shaji/leetcode-journal/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
