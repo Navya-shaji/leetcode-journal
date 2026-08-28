@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Navya-shaji/leetcode-journal/tree/master/3931-check-adjacent-digit-differences) |
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
+| [4006-count-valid-prefixes](https://github.com/Navya-shaji/leetcode-journal/tree/master/4006-count-valid-prefixes) |
 ## Greedy
 |  |
 | ------- |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Navya-shaji/leetcode-journal/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/Navya-shaji/leetcode-journal/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navya-shaji/leetcode-journal/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4006-count-valid-prefixes](https://github.com/Navya-shaji/leetcode-journal/tree/master/4006-count-valid-prefixes) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
