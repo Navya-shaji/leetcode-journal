@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Navya-shaji/leetcode-journal/tree/master/1677-matrix-diagonal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/Navya-shaji/leetcode-journal/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1720-decode-xored-array) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Navya-shaji/leetcode-journal/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/Navya-shaji/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Navya-shaji/leetcode-journal/tree/master/1752-check-if-array-is-sorted-and-rotated) |
