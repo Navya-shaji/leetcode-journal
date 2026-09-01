@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3934-coupon-code-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Navya-shaji/leetcode-journal/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4020-elevator-requests-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/4020-elevator-requests-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/4107-find-missing-elements) |
 ## Enumeration
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Navya-shaji/leetcode-journal/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3921-score-validator) |
+| [4020-elevator-requests-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
