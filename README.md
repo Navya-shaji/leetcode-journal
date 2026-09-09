@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1408-string-matching-in-an-array) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Navya-shaji/leetcode-journal/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navya-shaji/leetcode-journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1436-destination-city](https://github.com/Navya-shaji/leetcode-journal/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navya-shaji/leetcode-journal/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1436-destination-city](https://github.com/Navya-shaji/leetcode-journal/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Navya-shaji/leetcode-journal/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1507-reformat-date](https://github.com/Navya-shaji/leetcode-journal/tree/master/1507-reformat-date) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Navya-shaji/leetcode-journal/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navya-shaji/leetcode-journal/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1436-destination-city](https://github.com/Navya-shaji/leetcode-journal/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/1741-sort-array-by-increasing-frequency) |
