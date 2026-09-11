@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Navya-shaji/leetcode-journal/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/Navya-shaji/leetcode-journal/tree/master/3221-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/3765-complete-prime-number) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Navya-shaji/leetcode-journal/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navya-shaji/leetcode-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Navya-shaji/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navya-shaji/leetcode-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Navya-shaji/leetcode-journal/tree/master/3606-coupon-code-validator) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Navya-shaji/leetcode-journal/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Navya-shaji/leetcode-journal/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
