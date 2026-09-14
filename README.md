@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Navya-shaji/leetcode-journal/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Navya-shaji/leetcode-journal/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Navya-shaji/leetcode-journal/tree/master/0957-prison-cells-after-n-days) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1112,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Navya-shaji/leetcode-journal/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Navya-shaji/leetcode-journal/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Navya-shaji/leetcode-journal/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Hash Function
