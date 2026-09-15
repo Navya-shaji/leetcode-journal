@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navya-shaji/leetcode-journal/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Navya-shaji/leetcode-journal/tree/master/2104-sum-of-subarray-ranges) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navya-shaji/leetcode-journal/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Navya-shaji/leetcode-journal/tree/master/2104-sum-of-subarray-ranges) |
 | [2128-reverse-prefix-of-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/2128-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Navya-shaji/leetcode-journal/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/3447-clear-digits) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Navya-shaji/leetcode-journal/tree/master/0654-maximum-binary-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navya-shaji/leetcode-journal/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Navya-shaji/leetcode-journal/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
