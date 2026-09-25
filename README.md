@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navya-shaji/leetcode-journal/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Navya-shaji/leetcode-journal/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2235-capitalize-the-title](https://github.com/Navya-shaji/leetcode-journal/tree/master/2235-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/2255-count-prefixes-of-a-given-string) |
