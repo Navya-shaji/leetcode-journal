@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Navya-shaji/leetcode-journal/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1507-reformat-date](https://github.com/Navya-shaji/leetcode-journal/tree/master/1507-reformat-date) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navya-shaji/leetcode-journal/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Navya-shaji/leetcode-journal/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Navya-shaji/leetcode-journal/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navya-shaji/leetcode-journal/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Navya-shaji/leetcode-journal/tree/master/2104-sum-of-subarray-ranges) |
 | [2128-reverse-prefix-of-word](https://github.com/Navya-shaji/leetcode-journal/tree/master/2128-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Navya-shaji/leetcode-journal/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -1174,4 +1176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Navya-shaji/leetcode-journal/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Navya-shaji/leetcode-journal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
