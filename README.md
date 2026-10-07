@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navya-shaji/leetcode-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2058-concatenation-of-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-shaji/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navya-shaji/leetcode-journal/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Navya-shaji/leetcode-journal/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Navya-shaji/leetcode-journal/tree/master/1925-count-square-sum-triples) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navya-shaji/leetcode-journal/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navya-shaji/leetcode-journal/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1720-decode-xored-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/1720-decode-xored-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2159-two-out-of-three](https://github.com/Navya-shaji/leetcode-journal/tree/master/2159-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navya-shaji/leetcode-journal/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Navya-shaji/leetcode-journal/tree/master/0089-gray-code) |
 | [1980-find-unique-binary-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/1980-find-unique-binary-string) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navya-shaji/leetcode-journal/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Navya-shaji/leetcode-journal/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
