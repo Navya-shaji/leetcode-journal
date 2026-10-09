@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navya-shaji/leetcode-journal/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Navya-shaji/leetcode-journal/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2864-maximum-odd-binary-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2864-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/Navya-shaji/leetcode-journal/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navya-shaji/leetcode-journal/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navya-shaji/leetcode-journal/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navya-shaji/leetcode-journal/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2864-maximum-odd-binary-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Navya-shaji/leetcode-journal/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navya-shaji/leetcode-journal/tree/master/3074-apple-redistribution-into-boxes) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Navya-shaji/leetcode-journal/tree/master/2651-calculate-delayed-arrival-time) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navya-shaji/leetcode-journal/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2864-maximum-odd-binary-number](https://github.com/Navya-shaji/leetcode-journal/tree/master/2864-maximum-odd-binary-number) |
 | [2998-count-symmetric-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/2998-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/Navya-shaji/leetcode-journal/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Navya-shaji/leetcode-journal/tree/master/3079-find-the-sum-of-encrypted-integers) |
