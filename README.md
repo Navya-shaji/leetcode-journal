@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Navya-shaji/leetcode-journal/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Navya-shaji/leetcode-journal/tree/master/0861-flipping-an-image) |
 | [0877-stone-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Navya-shaji/leetcode-journal/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Navya-shaji/leetcode-journal/tree/master/0948-sort-an-array) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Navya-shaji/leetcode-journal/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Navya-shaji/leetcode-journal/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Navya-shaji/leetcode-journal/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/0908-smallest-range-i) |
 | [0957-prison-cells-after-n-days](https://github.com/Navya-shaji/leetcode-journal/tree/master/0957-prison-cells-after-n-days) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navya-shaji/leetcode-journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1103-distribute-candies-to-people](https://github.com/Navya-shaji/leetcode-journal/tree/master/1103-distribute-candies-to-people) |
