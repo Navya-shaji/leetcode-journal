@@ -1179,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Navya-shaji/leetcode-journal/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Navya-shaji/leetcode-journal/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Graph Theory
 |  |
 | ------- |
